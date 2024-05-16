@@ -2,7 +2,7 @@
 
 ## What's it?
 
-It is a port of Windows PowerShell `Microsoft.PowerShell.LocalAccounts` module to .Net (>= 8.0) for using with PowerShell 7.
+It is a port of Windows PowerShell `Microsoft.PowerShell.LocalAccounts` module to .Net (>= 8.0) for using with PowerShell 7.4+.
 
 [Documentation](https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.localaccounts/?view=powershell-5.1)
 
