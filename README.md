@@ -1,4 +1,8 @@
-﻿# Microsoft.PowerShell.LocalAccounts
+This project was the starting point and is no longer supported.
+The working version of the project is in https://github.com/iSazonov/LocalAccounts
+------------
+
+# Microsoft.PowerShell.LocalAccounts
 
 ## What's it?
 
